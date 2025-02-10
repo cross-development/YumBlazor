@@ -17,10 +17,8 @@
   <ItemGroup>
     <Folder Include="Data\Entities\" />
     <Folder Include="Repository\Abstractions\" />
-    <Folder Include="Services\Extensions\" />
     <Folder Include="Services\" />
     <Folder Include="ViewModels\" />
-    <Folder Include="wwwroot\js\" />
   </ItemGroup>
 
 </Project>
