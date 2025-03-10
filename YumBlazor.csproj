@@ -16,9 +16,9 @@
 
   <ItemGroup>
     <Folder Include="Data\Entities\" />
-    <Folder Include="Repository\Abstractions\" />
     <Folder Include="Services\" />
     <Folder Include="ViewModels\" />
+    <Folder Include="wwwroot\images\product\" />
   </ItemGroup>
 
 </Project>
